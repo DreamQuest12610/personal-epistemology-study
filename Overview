@@ -1,0 +1,58 @@
+# Personal Epistemology in Library Practice: An IPA Study
+
+## Overview
+This repository documents my research exploring how librarians with different cognitive orientations conceptualize knowledge and knowing in their professional practice.
+
+## Documentation Authorship
+
+**Important Note:** The documentation files in this repository (theoretical frameworks, methodology overviews, literature summaries) were **drafted by Anthropic's Claude ** based on our collaborative conversations about my research interests.
+
+While the **research ideas, questions, and decisions are mine**, the **written articulation in these documents is Claude's language**, not my original prose. I am using these AI-generated documents as:
+- Structured scaffolding for my thinking
+- Reference material as I develop the project
+- Documentation of the conceptual development process
+
+**As the research progresses**, I will:
+- Rewrite key sections in my own voice
+- Verify all cited frameworks and theories through original sources
+- Create my own original analysis and writing for the final output
+
+This repository represents the **conceptual development phase** with AI assistance. The **execution phase** (interviews, analysis, final writing) will be in my own voice and work.
+
+## Research Question
+"How do information professionals with different epistemological stances understand the nature of knowledge and knowing, and how do these beliefs manifest in their professional practice?"
+
+## Theoretical Framework
+- **Theory:** Personal Epistemology (Hofer & Pintrich, 1997) + Situated Cognition
+- **Model:** Four-Dimensional Framework of Epistemic Beliefs
+  - Certainty of Knowledge
+  - Simplicity of Knowledge
+  - Source of Knowledge
+  - Justification for Knowing
+- **Methodology:** Interpretative Phenomenological Analysis (IPA)
+
+## Study Design
+- **Participants:** 3-4 librarians with diverse cognitive orientations
+- **Data Collection:** Semi-structured interviews (45-60 minutes)
+- **Analysis:** IPA thematic coding
+- **Output:** LinkedIn article + potential academic publication
+
+## Repository Structure
+- `01-conceptual-framework/` - Theoretical foundations and literature
+- `02-methodology/` - Interview guides and analysis plans
+- `03-process-notes/` - Development conversations and reflections
+- `04-data/` - Interview data (private/encrypted)
+- `05-writing/` - Drafts and final article
+
+## Status
+- [x] Initial conceptualization
+- [x] Theoretical framework identified
+- [x] Methodology selected
+- [ ] Interview guide finalized
+- [ ] Participant recruitment
+- [ ] Data collection
+- [ ] Analysis
+- [ ] Writing
+
+## Related Work
+This study builds on research in personal epistemology across professions (medicine, nursing, education) but represents the first qualitative phenomenological study of librarians' epistemological beliefs.
